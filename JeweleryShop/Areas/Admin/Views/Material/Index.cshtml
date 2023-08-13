@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Material>
+
+<div>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Type</th>
+        </tr>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Type</td>
+                <td><a asp-route-Id="@product.Id" asp-area="Admin" asp-controller="Material" asp-action="Edit"> Edit </a></td>
+                <td><a asp-route-Id="@product.Id" asp-area="Admin" asp-controller="Material" asp-action="Delete"> Delete </a></td>
+            </tr>
+        }
+    </table>
+    <a class="btn btn-primary" asp-area="Admin" asp-controller="Material" asp-action="Create"> Add Material</a>
+</div>

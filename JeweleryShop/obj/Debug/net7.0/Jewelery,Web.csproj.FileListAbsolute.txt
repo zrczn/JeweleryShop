@@ -1,0 +1,8 @@
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\JeweleryShop\obj\Debug\net7.0\Jewelery,Web.csproj.AssemblyReference.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\JeweleryShop\obj\Debug\net7.0\Jewelery,Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\JeweleryShop\obj\Debug\net7.0\Jewelery,Web.AssemblyInfoInputs.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\JeweleryShop\obj\Debug\net7.0\Jewelery,Web.AssemblyInfo.cs
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\JeweleryShop\obj\Debug\net7.0\Jewelery,Web.csproj.CoreCompileInputs.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\JeweleryShop\obj\Debug\net7.0\Jewelery,Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\JeweleryShop\obj\Debug\net7.0\Jewelery,Web.RazorAssemblyInfo.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\JeweleryShop\obj\Debug\net7.0\Jewelery,Web.RazorAssemblyInfo.cs

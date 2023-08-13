@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Stone>
+
+<div>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Type</th>
+        </tr>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Type</td>
+                <td><a asp-route-Id="@product.Id" asp-area="Admin" asp-controller="Gemstone" asp-action="Edit"> Edit </a></td>
+                <td><a asp-route-Id="@product.Id" asp-area="Admin" asp-controller="Gemstone" asp-action="Delete"> Delete </a></td>
+            </tr>
+        }
+    </table>
+    <a class="btn btn-primary" asp-area="Admin" asp-controller="Gemstone" asp-action="Create"> Add Gemstone</a>
+</div>

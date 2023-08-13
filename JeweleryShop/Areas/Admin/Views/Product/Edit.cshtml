@@ -1,0 +1,57 @@
+﻿@model Product
+
+<form method="post">
+    <div class="mb-2">
+        <label asp-for="Name"></label>
+        <br />
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Description"></label>
+        <br />
+        <input asp-for="Description" />
+        <span asp-validation-for="Description"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Price"></label>
+        <br />
+        <input asp-for="Price" />
+        <span asp-validation-for="Price"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="MaterialsId"></label>
+        <br />
+        <input asp-for="MaterialsId" />
+        <span asp-validation-for="MaterialsId"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="StonesId"></label>
+        <br />
+        <input asp-for="StonesId" />
+        <span asp-validation-for="StonesId"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="TypeId"></label>
+        <br />
+        <input asp-for="TypeId" />
+        <span asp-validation-for="TypeId"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Size"></label>
+        <br />
+        <input asp-for="Size" />
+        <span asp-validation-for="Size"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="ImageURl"></label>
+        <br />
+        <input asp-for="ImageURl" />
+        <span asp-validation-for="ImageURl"></span>
+    </div>
+
+    <div>
+        <button type="submit" class="btn btn-primary">Edit</button>
+        <button class="btn btn-secondary" asp-action="Index">Back to Products</button>
+    </div>
+</form>

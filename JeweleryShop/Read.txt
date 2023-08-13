@@ -1,0 +1,32 @@
+﻿Strona Główna: 
+Przywita użytkowników pięknymi zdjęciami unikalnych biżuterii,
+prezentując różnorodność dostępnych produktów.
+
+Kategorie: 
+Poszczególne sekcje na stronie dedykowane różnym kategoriom biżuterii, 
+takim jak naszyjniki, bransoletki, kolczyki, pierścionki itp.
+
+Produkty: 
+Strona dla każdego produktu zawierałaby jego zdjęcia, opis, materiały, rozmiary i cenę. 
+Możesz również dodać informacje o symbolice kamieni szlachetnych i ich właściwościach.
+
+Koszyk i Kasa: 
+Umożliwia użytkownikom dodawanie produktów do koszyka, 
+a następnie płacenie za nie za pomocą bezpiecznych metod płatności online.
+
+O Nas: Krótka historia o tym, jak powstał sklep i pasja do tworzenia ręcznie robionej biżuterii.
+
+Kontakt: Formularz kontaktowy, dane do kontaktu oraz odnośniki do mediów społecznościowych, aby użytkownicy mogli się z Tobą skontaktować.
+
+Blog: Regularnie publikowane wpisy na temat trendów w biżuterii, informacji o kamieniach szlachetnych i inspiracjach związanych z modą.
+
+Polityka Prywatności: Jasne wyjaśnienie, jakie dane są zbierane od klientów i jak są wykorzystywane, oraz zasady dotyczące prywatności.
+
+FAQ: Najczęściej zadawane pytania dotyczące zamówień, płatności, dostawy i zwrotów.
+
+Galeria Klientów: Możesz umożliwić klientom przesyłanie zdjęć, na których noszą Twoje wyroby, aby pokazać, jak wyjątkowe są Twoje produkty.
+
+Recenzje: Przegląd ocen i recenzji od zadowolonych klientów.
+
+
+Gemstone front do napisania

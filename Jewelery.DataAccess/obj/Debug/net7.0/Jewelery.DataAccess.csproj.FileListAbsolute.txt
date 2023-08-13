@@ -1,0 +1,15 @@
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\Jewelery.DataAccess.csproj.AssemblyReference.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\Jewelery.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\Jewelery.DataAccess.AssemblyInfoInputs.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\Jewelery.DataAccess.AssemblyInfo.cs
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\Jewelery.DataAccess.csproj.CoreCompileInputs.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\bin\Debug\net7.0\Jewelery.DataAccess.deps.json
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\bin\Debug\net7.0\Jewelery.DataAccess.dll
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\bin\Debug\net7.0\Jewelery.DataAccess.pdb
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\bin\Debug\net7.0\Jewelery.Models.dll
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\bin\Debug\net7.0\Jewelery.Models.pdb
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\Jewelery.DataAccess.csproj.CopyComplete
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\Jewelery.DataAccess.dll
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\refint\Jewelery.DataAccess.dll
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\Jewelery.DataAccess.pdb
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.DataAccess\obj\Debug\net7.0\ref\Jewelery.DataAccess.dll

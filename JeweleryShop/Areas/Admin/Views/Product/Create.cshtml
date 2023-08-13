@@ -1,0 +1,64 @@
+﻿@model ProductVM
+
+<form method="post">
+    <div class="mb-2">
+        <label asp-for="Product.Name"></label>
+        <br />
+        <input asp-for="Product.Name" />
+        <span asp-validation-for="Product.Name"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Product.Description"></label>
+        <br/>
+        <input asp-for="Product.Description" />
+        <span asp-validation-for="Product.Description"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Product.Price"></label>
+        <br />
+        <input asp-for="Product.Price" />
+        <span asp-validation-for="Product.Price"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Product.Materials"></label>
+        <br />
+        <select asp-for="Product.MaterialsId" asp-items="@Model.SelectMaterials">
+            <option disabled selected>--Select Material--</option>
+        </select>
+        <span asp-validation-for="Product.MaterialsId"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Product.Stones"></label>
+        <br/>
+        <select asp-for="Product.StonesId" asp-items="@Model.SelectStones">
+            <option disabled selected>--Select GemStone--</option>
+        </select>
+        <span asp-validation-for="Product.StonesId"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Product.Type"></label>
+        <br/>
+        <select asp-for="Product.TypeId" asp-items="@Model.SelectWearingTypes">
+            <option disabled selected>--Select Wearing Type--</option>
+        </select>
+        <br />
+        <span asp-validation-for="Product.TypeId"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Product.Size"></label>
+        <br />
+        <input asp-for="Product.Size" />
+        <span asp-validation-for="Product.Size"></span>
+    </div>
+    <div class="mb-2">
+        <label asp-for="Product.ImageURl"></label>
+        <br/>
+        <input type="file" formenctype="multipart/form-data"/>
+        <br />
+    </div>
+
+    <div>
+        <button type="submit" class="btn btn-primary">Add</button>
+        <button class="btn btn-secondary" asp-action="Index">Back to Products</button>
+    </div>
+</form>

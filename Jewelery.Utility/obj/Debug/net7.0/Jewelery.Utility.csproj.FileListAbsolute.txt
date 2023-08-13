@@ -1,0 +1,12 @@
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\bin\Debug\net7.0\Jewelery.Utility.deps.json
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\bin\Debug\net7.0\Jewelery.Utility.dll
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\bin\Debug\net7.0\Jewelery.Utility.pdb
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\Jewelery.Utility.csproj.AssemblyReference.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\Jewelery.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\Jewelery.Utility.AssemblyInfoInputs.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\Jewelery.Utility.AssemblyInfo.cs
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\Jewelery.Utility.csproj.CoreCompileInputs.cache
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\Jewelery.Utility.dll
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\refint\Jewelery.Utility.dll
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\Jewelery.Utility.pdb
+D:\Repos\Repos22\udemy course\MVC course\JeweleryShop\Jewelery.Utility\obj\Debug\net7.0\ref\Jewelery.Utility.dll
